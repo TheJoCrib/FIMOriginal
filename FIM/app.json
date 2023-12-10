@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "FIM",
+    "slug": "FIM",
+    "version": "1.0.0",
+    "assetBundlePatterns": ["**/*"],
+    "extra": {
+      "eas": {
+        "projectId": "227f94b6-1171-4b2e-900a-177b39acb50e"
+      }
+    },
+    "android": {
+      "package": "com.karasu1422.FIM"
+    },
+    "ios": {
+      "bundleIdentifier": "com.karasu1422.FIM",
+      "buildNumber": "1.0.0"
+    },
+    "scheme": "FIM"
+  }
+}
